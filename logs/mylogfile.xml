@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-07-11" time="17:35:16">
+  <environment user="admcta" machine-name="INVLDNVMT1MGT1" cwd="C:\Users\admcta\HelloWorld" user-domain="UK" platform="Microsoft Windows Server 2012 R2 Standard|C:\WINDOWS|\Device\Harddisk0\Partition1" nunit-version="2.5.8.0" os-version="6.3.9600" clr-version="4.0.30319.42000" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="TestFixture" name="Pester" executed="True" result="Success" success="True" time="0.4948" asserts="0" description="Pester">
+    <results>
+      <test-suite type="TestFixture" name="C:\Users\admcta\HelloWorld\HelloWorld.Tests.ps1" executed="True" result="Success" success="True" time="0.4948" asserts="0" description="C:\Users\admcta\HelloWorld\HelloWorld.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="HelloWorld" executed="True" result="Success" success="True" time="0.4948" asserts="0" description="HelloWorld">
+            <results>
+              <test-case description="does something useful" name="HelloWorld.does something useful" time="0.2154" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="with no input returns a canonical phrase" name="HelloWorld.with no input returns a canonical phrase" time="0.1498" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="with a name returns the standard phrase with that name" name="HelloWorld.with a name returns the standard phrase with that name" time="0.0982" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="with a name returns something that ends with name" name="HelloWorld.with a name returns something that ends with name" time="0.0315" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
